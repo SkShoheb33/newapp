@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Rohan Goswami, MacKenzie Sigalos",
+            "title": "Binance was final destination for millions in funds from Bitzlato, exchange shut down for alleged money laundering - CNBC",
+            "description": "Blockchain data shows that tens of millions of dollars moved from Bitzlato through intermediaries to Binance.",
+            "url": "https://www.cnbc.com/2023/01/19/binance-was-final-destination-for-millions-in-funds-from-bitzlato.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106911984-1626436660712-gettyimages-1233884495-sindeyev-notitle210708_npnjR.jpeg?v=1674180412&w=1920&h=1080",
+            "publishedAt": "2023-01-20T02:06:00Z",
+            "content": "Federal prosecutors unsealed an indictment against a little-known crypto exchange called Bitzlato on Wednesday, alleging that it facilitated the laundering of $700 million in tainted crypto tied to t… [+5281 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "David Goldman",
+            "title": "37 million T-Mobile customers were hacked - CNN",
+            "description": "T-Mobile said a \"bad actor\" accessed personal data from 37 million current customers in a November data breach.",
+            "url": "https://www.cnn.com/2023/01/19/tech/tmobile-hack/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230118193958-t-mobile-store-220131-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-20T02:00:00Z",
+            "content": "T-Mobile said a bad actor accessed personal data from 37 million current customers in a November data breach.\r\nIn a regulatory filing Thursday, the company said the hacker stole customer data that in… [+1623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Silvia Amaro",
+            "title": "China's reopening 'good news' for growth — but could be inflationary, economists warn at Davos - CNBC",
+            "description": "China's decision to welcome tourists again as well as to make it easier for those in the country to travel abroad has been one of the most discussed topics at the World Economic Forum.",
+            "url": "https://www.cnbc.com/2023/01/20/chinas-reopening-good-news-for-growth-but-could-be-inflationary-economists-warn-at-davos.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107181095-1674140490115-gettyimages-1246347221-CHINA_TRAVEL.jpeg?v=1674177302&w=1920&h=1080",
+            "publishedAt": "2023-01-20T01:15:00Z",
+            "content": "China's reopening has been one of the most discussed topics at the World Economic Forum in Davos.\r\nDAVOS, Switzerland China's economic reopening might boost global growth, but the business leaders an… [+3447 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jim Cramer says an 'obsession' with mega-cap names is overshadowing a bull market - CNBC Television",
+            "description": "Cramer said that many non-tech stocks are on a bull run.",
+            "url": "https://www.youtube.com/watch?v=R_J8X_hYrHg",
+            "urlToImage": "https://i.ytimg.com/vi/R_J8X_hYrHg/maxresdefault.jpg",
+            "publishedAt": "2023-01-20T00:37:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Aislinn Murphy",
+            "title": "Jamie Dimon mocks crypto, says it’s a ‘pet rock’ - Fox Business",
+            "description": "JPMorgan Chase CEO Jamie Dimon voiced his dislike of cryptocurrency in a CNBC interview Thursday. He called it a \"pet rock\" and said it \"doesn't do anything.\"",
+            "url": "https://www.foxbusiness.com/markets/jamie-dimon-mocks-crypto-says-its-pet-rock",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/09/0/0/dimon-2.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-20T00:32:33Z",
+            "content": "JPMorgan Chase CEO Jamie Dimon voiced his dislike of cryptocurrency on Thursday.\r\nBitcoin itself, Dimon told CNBC’s \"Squawk Box,\" is a \"hyped-up fraud.\" He also called it a \"pet rock\" during the inte… [+1986 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Krystal Hur",
+            "title": "Cramer's lightning round: I like ABM Industries - CNBC",
+            "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+            "url": "https://www.cnbc.com/2023/01/19/cramers-lightning-round-i-like-abm-industries.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507374-104044814.jpg?v=1674174637&w=1920&h=1080",
+            "publishedAt": "2023-01-20T00:30:00Z",
+            "content": "Dow Inc: \"I want you to hold on. ... Keep it at a 5% yield, buy some more if it goes 5.5%.\"\r\nABM Industries Inc: \"Talk about a boring facilities management company that I like so much. You've got a r… [+817 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Carmen Reinicke",
+            "title": "Stock futures tick up after Dow goes negative for the year - CNBC",
+            "description": "Investors are trying to hold onto January's rally while watching earnings, economic data.",
+            "url": "https://www.cnbc.com/2023/01/19/stock-futures-tick-up-after-dow-goes-negative-for-the-year.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107181118-1674142187279-gettyimages-1457697883-032a4617_5d0b411e-2630-46ce-b7c9-3bb5d2e9f8a3.jpeg?v=1674169360&w=1920&h=1080",
+            "publishedAt": "2023-01-20T00:17:00Z",
+            "content": "Stock futures ticked higher on Thursday as investors tried to hang onto the January rally amid worries about monetary policy and slowing earnings.\r\nFutures tied to the Dow Jones Industrial Average ro… [+1787 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Stung! Sting reportedly played elite Microsoft event as layoffs loomed - The Seattle Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMibGh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3Mvc3R1bmctc3RpbmctcmVwb3J0ZWRseS1wbGF5ZWQtZWxpdGUtbWljcm9zb2Z0LWV2ZW50LWFzLWxheW9mZnMtbG9vbWVkL9IBcmh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3Mvc3R1bmctc3RpbmctcmVwb3J0ZWRseS1wbGF5ZWQtZWxpdGUtbWljcm9zb2Z0LWV2ZW50LWFzLWxheW9mZnMtbG9vbWVkLz9hbXA9MQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-19T23:47:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "U.S. Food and Drug Administration Issues Complete Response Letter for Accelerated Approval of Donanemab | Eli Lilly and Company - Investors | Eli Lilly and Company",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vaW52ZXN0b3IubGlsbHkuY29tL25ld3MtcmVsZWFzZXMvbmV3cy1yZWxlYXNlLWRldGFpbHMvdXMtZm9vZC1hbmQtZHJ1Zy1hZG1pbmlzdHJhdGlvbi1pc3N1ZXMtY29tcGxldGUtcmVzcG9uc2UtMNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-19T23:11:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Davos 2023: Cowed crypto crowd feel winter freeze at WEF - Reuters",
+            "description": "In the snow and ice on the main drag in Davos, the impact of the crypto winter is plain for WEF attendees to see.",
+            "url": "https://www.reuters.com/business/finance/davos-2023-cowed-crypto-crowd-feel-winter-freeze-wef-2023-01-19/",
+            "urlToImage": "https://www.reuters.com/resizer/tiueZFq1UeX2DYbTGc11gzEACvk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PNS6QBG7GRKH5CBU3O3M5XQMKE.jpg",
+            "publishedAt": "2023-01-19T22:53:00Z",
+            "content": "DAVOS, Switzerland, Jan 19 (Reuters) - In the snow and ice on the main drag in Davos, the impact of the crypto winter is plain for WEF attendees to see.\r\nLast May, the dressed-up shop fronts that lin… [+4166 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ashley Belanger",
+            "title": "Twitter auction’s highest bid was $100K; it could owe $300M next week - Ars Technica",
+            "description": "Twitter's first loan payment deadline is reportedly next week.",
+            "url": "https://arstechnica.com/tech-policy/2023/01/twitter-auctions-highest-bid-was-100k-it-could-owe-300m-next-week/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/GettyImages-1246184086-1-760x380.jpg",
+            "publishedAt": "2023-01-19T22:33:43Z",
+            "content": "91 with 0 posters participating\r\nTwitter owes $13 billion, and its expected to make its first payment against that debt next week, Bloomberg reports. Due to this looming financial burden, CEO Elon Mu… [+2449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Jocelyn Yang",
+            "title": "Crypto Markets Today: Bitcoin Rides Over $21K, FTX's Possible Revival - CoinDesk",
+            "description": "Bitcoin rose 1.5% to trade at $21,100 after dipping earlier on Thursday. Ether was also trading up 0.6% to $1,550. Equities closed down.",
+            "url": "https://www.coindesk.com/markets/2023/01/19/crypto-markets-today-bitcoin-rides-over-21k-ftxs-possible-revival/",
+            "urlToImage": "https://www.coindesk.com/resizer/PorLxYGUG-2iuaGMOtMPkszYc6I=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/R2CDWOEMUFC2HCBB5BQPQOJVXM.jpg",
+            "publishedAt": "2023-01-19T22:21:00Z",
+            "content": "The new head of FTX is exploring the possibility of restarting the bankrupt crypto exchange, according to an interview he gave to the Wall Street Journal, his first since taking over at FTX in Novemb… [+4025 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jordan Novet",
+            "title": "Texas Instruments replaces CEO Rich Templeton with current operating chief Haviv Ilan - CNBC",
+            "description": "The chipmaker tried a similar move in 2018 but the operating chief selected to become CEO ended up resigning for violating conduct rules.",
+            "url": "https://www.cnbc.com/2023/01/19/texas-instruments-picks-havav-ilan-to-replace-rich-templeton-as-ceo.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107181437-1674165777104-gettyimages-160809455-TECHNOLOGY_COMMITTEE.jpeg?v=1674166305&w=1920&h=1080",
+            "publishedAt": "2023-01-19T22:11:45Z",
+            "content": "Texas Instruments on Thursday announced that its CEO for almost 19 years, Rich Templeton, will step down on April 1 as Haviv Ilan, its chief operating officer, replaces him. Templeton will remain the… [+1994 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sec.gov"
+            },
+            "author": null,
+            "title": "Nexo Agrees to Pay $45 Million in Penalties and Cease Unregistered Offering of Crypto Asset Lending Product - SEC.gov",
+            "description": null,
+            "url": "https://www.sec.gov/news/press-release/2023-11",
+            "urlToImage": null,
+            "publishedAt": "2023-01-19T22:02:22Z",
+            "content": "Washington D.C., Jan. 19, 2023 —\r\n The Securities and Exchange Commission today charged Nexo Capital Inc. with failing to register the offer and sale of its retail crypto asset lending product, the E… [+3476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Netflix jumps on Q4 paid net additions, 7.66 million vs. 4.57 million expected - CNBC Television",
+            "description": "Adam Parker of Trivariate Research joins 'Closing Bell: Overtime' to discuss Netflix earnings and whether he believes in the bounce back in technology stocks.",
+            "url": "https://www.youtube.com/watch?v=IID4MsKVwCs",
+            "urlToImage": "https://i.ytimg.com/vi/IID4MsKVwCs/maxresdefault.jpg",
+            "publishedAt": "2023-01-19T21:48:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "4 Pharmaceutical Stocks Are Close To Cracking Multibillion-Dollar RSV Vaccine Market | Investor's Business Daily - Investor's Business Daily",
+            "description": "After years of lab failures, the companies could crack open a multibillion-dollar market.",
+            "url": "https://www.investors.com/news/technology/4-pharmaceutical-stocks-are-close-to-cracking-multibillion-dollar-rsv-vaccine-market/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2023/01/A1MAIN_rsv_012023_adobe.jpg",
+            "publishedAt": "2023-01-19T21:41:00Z",
+            "content": "The RSV virus has puzzled drugmakers for decades, killing thousands of newborns and older adults in the U.S. while one hoped-for vaccine after another fell flat in the lab. But four big pharmaceutica… [+15997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Travel+Leisure"
+            },
+            "author": "https://www.facebook.com/travelandleisure/",
+            "title": "Netflix Is Paying Up to $385,000 for an Experienced Flight Attendant to Work on Its Private Plane - Travel + Leisure",
+            "description": "Netflix is currently looking for a flight attendant to work on its private plane.",
+            "url": "https://www.travelandleisure.com/netflix-hiring-flight-attendant-7096857",
+            "urlToImage": "https://www.travelandleisure.com/thmb/tyzIXJRv6aCFtEJvGu6eX5OzTAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-exterior-private-plane-NETFLIXPJ0123-dd7e18dc6df74762a7f2486a2ba6e12a.jpg",
+            "publishedAt": "2023-01-19T21:32:11Z",
+            "content": "Looking to become a flight attendant but dont want to work at a major airline? Netflix yes the streaming company has a job for you. \r\nBetter known for producing some of your most beloved reality show… [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Triangle Business Journal"
+            },
+            "author": null,
+            "title": "Wayfair layoffs 2023: Company prepares to cut 1,000 jobs, report says - Boston Business Journal - Boston Business Journal",
+            "description": null,
+            "url": "https://www.bizjournals.com/boston/news/2023/01/19/wayfair-is-preparing-to-lay-off-workers.html",
+            "urlToImage": null,
+            "publishedAt": "2023-01-19T21:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Collin Woodard",
+            "title": "Most New Cars Are Now Selling for Less than MSRP - Jalopnik",
+            "description": "Unfortunately for consumers, the lack of more basic trims means transaction prices are still high.",
+            "url": "https://jalopnik.com/most-new-cars-are-now-selling-for-less-than-msrp-1850008099",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1e20119d710746f85b000760b8a3d268.jpg",
+            "publishedAt": "2023-01-19T21:30:00Z",
+            "content": "2022 was a bad time to buy a car. As was 2021. And most of 2020. But the good news is, that appears to be changing for the better. Shoppers still arent likely to land some of the best deals that were… [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Melissa Repko",
+            "title": "Nordstrom shares sink after retailer posts weak holiday sales and slashes guidance - CNBC",
+            "description": "Nordstrom said weak sales and a ton of markdowns hurt its results during the holiday season.",
+            "url": "https://www.cnbc.com/2023/01/19/nordstrom-shares-sink-after-retailer-posts-weak-holiday-sales.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107164584-1670849191661-gettyimages-1245552958-kingofprussia-12212022-markmakela26.jpeg?v=1674163666&w=1920&h=1080",
+            "publishedAt": "2023-01-19T21:27:46Z",
+            "content": "Shares of Nordstrom fell Thursday, after the department store chain said it was hurt by weak sales and a lot of markdowns during the holiday season.\r\nThe retailer said net sales dropped 3.5% for the … [+1801 chars]"
+        }
+    ]
+}
